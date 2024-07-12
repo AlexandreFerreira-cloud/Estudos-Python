@@ -1,1 +1,10 @@
 teste
+
+
+git pull - atualiza a branch
+git status - alteracoes que foram feitas
+git checkout main(nome da branch) - vai para a branch que vc quer
+git checkout -b nomebranch - cria uma branch
+git add nomearquivo - adiciona o arquivo que vc alterou
+git commit -m "comentario" - vc explica o que vc fez resumidamente
+git push - sobe a alteracao para o navegador
